@@ -1,0 +1,10 @@
+{
+  "name": "job_rotation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Sem testes disponíveis\" && exit 1"
+  },
+  "license": "MIT"
+}
